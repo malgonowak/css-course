@@ -1,0 +1,8 @@
+#banner{
+    height:  300px;
+    width: 100%;
+    background-image: url(https://a.allegroimg.com/s512/112426/f776a60a48c39b2ad1656d33b9ce/Coca-Cola-Metalowy-plakat-reklamowy), url(https://images.freeimages.com/images/large-previews/4b6/sky-photo-files-3-1395374.jpg);
+    background-repeat: no-repeat;
+    background-position: center, top left;
+    background-size: 300px, 100%;
+}
